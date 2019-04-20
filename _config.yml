@@ -6,7 +6,7 @@
 name: Yibo Yan
 title: Software Developer / Students
 email: totoroq@outlook.com
-# phone: 5305749508
+phone: "(530) 574 9508"
 website: https://dexstudio.cn
 
 # Social links
@@ -51,7 +51,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-theme: modern-resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
