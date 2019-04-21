@@ -25,9 +25,12 @@ linkedin_username: ybyan
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  My name is Yibo Yan, a student with enthusiasm to ceaselessly embrace new tools, languages, frameworks, and environments as a quick learner.
+  I have experience of developing software in the <mark>Universal Windows Platform</mark> and <mark>iOS</mark> platform.
+  Currently I am a first-year student with junior standing pursuing Bachelor Degree of Computer Science at University of California, Davis.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am learning <mark>Flutter</mark> framework combined wih **Dart**,
+  and plan to learn **Natural Language Processing** with <mark>PyTorch</mark> later this year.
 
 # Projects Section
 # projects_title: Projects
@@ -39,13 +42,26 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Skills & Languages
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  **Skills**
+    - <mark>C#</mark>              ★★★★★★☆
+    - <mark>Python</mark>          ★★★★★★☆
+    - <mark>C++</mark>             ★★★★★☆☆
+    - <mark>C</mark>               ★★★★☆☆☆
+    - <mark>Rust</mark>            ★★★☆☆☆☆
+    - <mark>Go</mark>              ★★★☆☆☆☆
+    - <mark>XAML</mark>            ★★★★★★☆
+    - <mark>Java</mark>            ★★★★☆☆☆
+    - <mark>Swift</mark>           ★★★★★☆☆
+    - <mark>Dart</mark>            ★★★☆☆☆☆
+    - <mark>Flutter</mark>         ★★★☆☆☆☆
+    - <mark>UWP Development</mark> ★★★★★★☆
+    - <mark>iOS Development</mark> ★★★★☆☆☆
+
+  **Languages**
+    - <mark>Chinese</mark> Native
+    - <mark>English</mark> Fully Professional
 
 # Footer
 footer_show_references: true

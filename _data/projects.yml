@@ -1,7 +1,50 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+- name: LightDays
+  link: dexstudio.cn/lightdays
+  github: totoroyyb/LightDays
+  # quote: >
+  #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    *First Commit: 2017.11*
+    
+    A gorgeous and light-weight countdown like app for Universal Windows Platform, 
+    utilizing fluent design system, adaptive tiles and Windows Hello. 
+    
+    Got **700+** downloads in **12** months, scored 4.5 out of 5.
+
+    [Microsoft Store Link](https://www.microsoft.com/store/apps/9PDG5JKBNPP3)
+
+- name: Project Neon
+  github: totoroyyb/Project-Neon
+  # quote: >
+  #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    *First Commit: 2018.4*
+
+    A modern media player for Universal Windows Platform using <mark>FFmpeg</mark> and system embedded codecs. 
+    
+    *It's still under development.*
+
+- name: LightHub
+  github: totoroyyb/LightHub
+  # quote: >
+  #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    *First Commit: 2018.1*
+
+    A third party client for GitHub which is still under development.
+    Credits to <mark>octokit.net</mark> which provides the wrapped library of GitHub API.
+    
+    *It's still under development.*
+
+- name: EquationBox
+  # quote: >
+  #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    *First Publish: 2017.11*
+
+    First try of developing an app for Universal Windows Platform which is a simple collection of equations shown by pictures.
+    Next step is to utilize <mark>KaTeX</mark> and <mark>WinJS</mark> to render equations natively in UWP.
+
+    Got **7000+** downloads in **12** months, scored 4.8 out of 5.
+    
+    [Microsoft Store Link](https://www.microsoft.com/store/apps/9NMLKF5ZX9T9)
